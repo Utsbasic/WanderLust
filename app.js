@@ -64,7 +64,7 @@ store.on("error",()=>{
     console.log("ERROR IN MONGO SWSSION STORE",err);
 });
 app.get("/",(req,res)=>{
-    res.send("connection successfull");
+    res.redirect("/listings");
 });
 app.use(session(sessionOptions));
 app.use(flash());
