@@ -1,8 +1,9 @@
-#still in development
 # WanderLust
 🏕️ A full-stack Airbnb-style web app for campground listings, built with Node.js, Express, MongoDB, Cloudinary, and Passport — featuring full MVC architecture, image uploads, and interactive maps.
 Wanderlust is a full-featured web application inspired by Airbnb, designed specifically for listing, viewing, and managing **campground stays**. Built using the **MVC architecture**, this project showcases a production-grade implementation of user authentication, file uploads, cloud integration, and map-based listings.
 
+ ## Live Demo
+[View the application on Render](https://wanderlust-tzml.onrender.com)
 > 🚀 Built with performance, scalability, and real-world use cases in mind.
 
 ---
